@@ -1,7 +1,7 @@
 # telephone-directory
 study project
 
-##Task:
+### Task:
 You need to create a simple Spring MVC application, e.g., a telephone directory. The telephone 
 directory must contain full names and sets of phone numbers. Each user may have several phone 
 numbers, and each number belongs to a specific phone company.
